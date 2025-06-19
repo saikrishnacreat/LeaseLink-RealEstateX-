@@ -7,7 +7,7 @@ A decentralized platform enabling tenants to pay rent in **ETH** (pegged to USD)
 
 ## 🔗 Live Demo
 
-> [Coming Soon – Add your deployed URL here]
+> [[deployed URL here](https://lease-link-real-estate-x-knog.vercel.app/)]
 
 ---
 
